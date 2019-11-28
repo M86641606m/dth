@@ -1,6 +1,4 @@
-# dth
-using my website all are accessing all govt releated data.
-<html>
+<!DOCTYPE html>
   <head>
     <title> dth </title>
       </head>
