@@ -1,9 +1,1 @@
-<!DOCTYPE html>
-  <head>
-    <title> dth </title>
-      </head>
-      <body>
-        <p> all are accessing all govt relatedn data with suitable quires...</p>
-      </body>
-      </html>
-        
+welcome to github website
